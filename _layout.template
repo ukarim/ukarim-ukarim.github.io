@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <title> $TITLE </title>
+    <link rel="icon" href="data:,">
+    <style> $STYLES </style>
+  </head>
+  <body>
+    <main> $MARKDOWN </main>
+    <footer>
+      <nav>
+        <a href="index.html">home</a>
+        -
+        <a href="https://github.com/ukarim">github</a>
+      </nav>
+    </footer>
+  </body>
+</html>
+

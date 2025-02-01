@@ -1,12 +1,10 @@
 # Karim Ulzhabayev
 
-- Software developer
-- Contacts: mail@ukarim.com
-- Github: [github.com/ukarim](https://github.com/ukarim)
+Welcome to my website! I'm software developer and I live in Almaty.
 
 ---
 
-## Projects
+[Компилируем класс вручную](classfile.html) - небольшой экскурс в структуру класс файлов java
 
 [smppgui](https://github.com/ukarim/smppgui) - cross-platform smpp gui client. The idea
   of this tool is not mine. This smpp client was created as a result of an email I received
@@ -22,11 +20,7 @@
   smsc simulators, but none of them provided a simple interface to generate MO-sms traffic.
   So I decided to create this program.
 
-## Misc
+[Delayed retry with RabbitMQ](rabbitmq-retry.html)
 
-- [Hiragana/katakana quiz](kana.html) - learn hiragana/katakana by repetition with this endless quiz
-- [Компилируем класс вручную](classfile.html)
-- [Delayed retry with RabbitMQ](rabbitmq-retry.html)
-- [Решения задач из сборника Иродова](irodov.html)
-
+[Решения задач из сборника Иродова](irodov.html)
 

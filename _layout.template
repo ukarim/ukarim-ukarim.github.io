@@ -2,18 +2,20 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">  
     <title> $TITLE </title>
     <link rel="icon" href="data:,">
     <style> $STYLES </style>
   </head>
   <body>
-    <main> $MARKDOWN </main>
-    <footer>
+    <header>
       <nav>
-        <a href="index.html">home</a>
+        <a href="index.html">Home</a>
+        |
+        <a href="https://github.com/ukarim">Github</a>
       </nav>
-    </footer>
+    </header>
+    <main> $MARKDOWN </main>
   </body>
 </html>
 

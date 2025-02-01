@@ -1,10 +1,3 @@
-<style>
-  main a {
-    margin-right: 1em;
-    line-height: 2em;
-  }
-</style>
-
 # Решения задач из сборника Иродова
 
 _31 окт 2020_
@@ -138,3 +131,11 @@ _31 окт 2020_
 [2.10](assets/irodov/2/2.10.jpg "Иродов решение 2.10")
 [2.11](assets/irodov/2/2.11.jpg "Иродов решение 2.11")
 [2.12](assets/irodov/2/2.12.jpg "Иродов решение 2.12")
+
+<style>
+  main a {
+    margin-right: 1em;
+    line-height: 2em;
+  }
+</style>
+

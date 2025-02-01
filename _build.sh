@@ -4,7 +4,7 @@
 # visit https://www.gnu.org/software/bash/manual/bash.html#Shell-Parameter-Expansion
 # to understand how .md file extension is replaced by .html
 
-export STYLES=$(cat _layout.css)
+export STYLES=$(sass -s compressed --no-source-map  _layout.scss)
 
 for f in *.md
 do
